@@ -23,7 +23,7 @@ connectDB();
 
 app.use(
   cors({
-    origin: [process.env.CLIENT_URL || 'http://localhost:3000', 'https://lms-loan-management.vercel.app'],
+    origin: [process.env.CLIENT_URL || 'http://localhost:3000', 'https://lms-loan-management.vercel.app','https://lms-loan-management-obz5.vercel.app/','https://lms-loan-management-obz5.vercel.app','https://lms-loan-management.onrender.com'],
     credentials: true,
   })
 );
