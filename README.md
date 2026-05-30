@@ -8,7 +8,7 @@ A full-stack lending platform built with the MERN stack + Next.js and TypeScript
 
 | | URL |
 |---|---|
-| **Frontend** | https://lms-loan-management.vercel.app |
+| **Frontend** | [https://lms-loan-management.vercel.app](https://lms-loan-management-obz5.vercel.app/login) |
 | **Backend API** | https://lms-backend.onrender.com/api/health |
 
 ---
